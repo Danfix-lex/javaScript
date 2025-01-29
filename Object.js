@@ -8,14 +8,14 @@ const person = {
 };
 console.log(person);
 
-function LogObject(number) {
-    const car = { make: "Toyota", model: "Camry", Year: 2021};
-    let curentCar = {};
-    for (const [start, finish] in car) {
-        currentCar += 
+function logObject() {
+    const car = { make: "Toyota", model: "Camry", year: 2021 };
+    
+    for (const key in car) {
+        console.log(`${key}: ${car[key]}`);
     }
-    return number;
-};
+}
+logObject();
 
 const laptop = {brand: "Dell", price: 1200};
 laptop.colour = "Blue";
@@ -58,3 +58,4 @@ function updateInfo(person) {
 const danfix = {firstName: "Daniel", lastName: "Ojo", age: 20};
 updateInfo(danfix);
 console.log(danfix.information);
+
