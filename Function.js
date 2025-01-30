@@ -33,17 +33,17 @@ function count() {
     let value = 0;
     return {
         increament: function() {
-            return value ++
+            return value ++;
         },
-        decreament: () => {
-            return value --
+        decreament: function() {
+            return value --;
         },
         getValue: function() {
-            return value
+            return value;
         }
-    }
-};
-let counter = count()
+    };
+}
+let counter = count();
 counter.increament();
 console.log(counter.getValue());
 
@@ -57,3 +57,15 @@ function executeFunction(callBack, userName) {
 }
 let result = executeFunction(greet, firstName)
 console.log(result);
+
+function count() {
+    let value = 0;
+    console.log(value)
+    
+    function increaseValueByTwo() {
+        let result = value + 2;
+        console.log(result)
+    }
+    increaseValueByTwo()
+}
+count()
