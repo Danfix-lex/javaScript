@@ -12,5 +12,5 @@ function printTotalNumberOfFruit(inventory) {
     }
     return total;
 }
-
 console.log(printTotalNumberOfFruit(inventory));
+module.exports = {printTotalNumberOfFruit};
