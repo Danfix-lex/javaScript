@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb721f51-a862-4e3a-a497-d4257105e081" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/javaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/.idea/objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/.idea/printStudentName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskOne.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/arrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../coverage/clover.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coverage/lcov-report/danfix.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/../coverage/lcov-report/danfix.js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../coverage/lcov-report/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2stLVKNxXI1Ym8KHCDvw5EzE2i1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb721f51-a862-4e3a-a497-d4257105e081" name="Changes" comment="" />
+      <created>1739269946849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739269946849</updated>
+      <workItem from="1739269948058" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

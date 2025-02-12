@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03752908-6eb1-4c7c-b540-9e903b3fb8c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/javaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFour/printInventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFour/printInventoryTest.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskFour/printTotalNumberOfFruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskOne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskOne/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskOne/objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskOne/printStudentName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskOne/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/addToAccountBalance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/addToAccountBalanceTest.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/subtractFromAccountBalance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskThree/subtractFromAccountBalanceTest.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/addNewProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/addNewPropertyTest.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/bankAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/getDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/getDetailsTest.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/updateStudentAge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskTwo/updateStudentAgeTest.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/arrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../coverage/clover.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coverage/lcov-report/danfix.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/../coverage/lcov-report/danfix.js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../coverage/lcov-report/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2stEaYvBcYYFkCOXi8vqN31qVT2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Jest.add new property.executor": "Run",
+    "Jest.get details (1).executor": "Run",
+    "Jest.get details (2).executor": "Run",
+    "Jest.get details (3).executor": "Run",
+    "Jest.get details.executor": "Run",
+    "Jest.objectTest.test.js.executor": "Run",
+    "Jest.print second course.executor": "Run",
+    "Jest.print student name (1).executor": "Run",
+    "Jest.print student name (2).executor": "Run",
+    "Jest.print student name.executor": "Run",
+    "Jest.print zip code from address.executor": "Run",
+    "Jest.printInventoryTest.test.js.executor": "Run",
+    "Jest.printSecondCourseTest.test.js.executor": "Run",
+    "Jest.update student age.executor": "Run",
+    "Node.js.bankAccount.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.printInventory.js.executor": "Run",
+    "Node.js.subtractFromAccountBalance.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "22.13.1",
+    "javascript.nodejs.core.library.typings.version": "22.13.1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/home/danfix/javaScript/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/app/extra/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="add new property" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/../node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/taskTwo/addNewPropertyTest.test.js" />
+      <test-names>
+        <test-name value="add new property" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get details (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/../node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/taskTwo/bankAccountTest.test.js" />
+      <test-names>
+        <test-name value="get details" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get details (2)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/../node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/taskThree/addToAccountBalanceTest.test.js" />
+      <test-names>
+        <test-name value="get details" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get details (3)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/../node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/taskThree/subtractFromAccountBalanceTest.test.js" />
+      <test-names>
+        <test-name value="get details" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get details" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/../node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/taskTwo/getDetailsTest.test.js" />
+      <test-names>
+        <test-name value="get details" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.add new property" />
+        <item itemvalue="Jest.get details (3)" />
+        <item itemvalue="Jest.get details (2)" />
+        <item itemvalue="Jest.get details (1)" />
+        <item itemvalue="Jest.get details" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03752908-6eb1-4c7c-b540-9e903b3fb8c8" name="Changes" comment="" />
+      <created>1739266534785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739266534785</updated>
+      <workItem from="1739266535921" duration="14731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
