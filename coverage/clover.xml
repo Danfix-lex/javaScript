@@ -1,26 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1739360138488" clover="3.2.0">
-  <project timestamp="1739360138489" name="All files">
-    <metrics statements="17" coveredstatements="14" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1" elements="23" coveredelements="19" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
-    <file name="arrayIncreament.js" path="/home/danfix/javaScript/breakfast/arrayIncreament.js">
-      <metrics statements="17" coveredstatements="14" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+<coverage generated="1739372810310" clover="3.2.0">
+  <project timestamp="1739372810310" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3" elements="39" coveredelements="39" complexity="0" loc="30" ncloc="30" packages="1" files="3" classes="3"/>
+    <file name="addPointsToScore.js" path="/home/danfix/javaScript/classWork/addPointsToScore.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="5" count="5" type="cond" truecount="1" falsecount="0"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="7" count="2" type="stmt"/>
-      <line num="8" count="2" type="stmt"/>
-      <line num="9" count="3" type="cond" truecount="1" falsecount="0"/>
-      <line num="10" count="3" type="stmt"/>
-      <line num="11" count="3" type="stmt"/>
-      <line num="12" count="5" type="cond" truecount="0" falsecount="1"/>
-      <line num="13" count="0" type="stmt"/>
-      <line num="14" count="0" type="stmt"/>
-      <line num="15" count="0" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="getScoresOfStudent.js" path="/home/danfix/javaScript/classWork/getScoresOfStudent.js">
+      <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="15" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="16" count="2" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="squareOfNumbers.js" path="/home/danfix/javaScript/classWork/squareOfNumbers.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
